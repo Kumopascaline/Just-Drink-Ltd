@@ -40,9 +40,10 @@ The analysis focuses on identifying high-margin products, optimizing inventory t
 * **Vendor Analysis**: **DIAGEO NORTH AMERICA INC** was identified as the most critical supplier by both value and frequency.
 * **Seasonality**: Purchasing activity peaks in **Q2 and Q4**, aligning with seasonal holidays and demand surges.
 
-  ![Picture4](https://github.com/user-attachments/assets/d60bff27-cc40-4ef8-a41f-4080f5ce5a04)
+![Picture4](https://github.com/user-attachments/assets/d60bff27-cc40-4ef8-a41f-4080f5ce5a04)
 
 ![Picture5](https://github.com/user-attachments/assets/39d67264-2005-4c83-ad49-6dc8cd46e955)
+
 ![Picture6](https://github.com/user-attachments/assets/44833ff7-c2db-47e9-9f45-e060f7a27f48)
 
 
