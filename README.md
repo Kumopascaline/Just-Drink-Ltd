@@ -24,17 +24,27 @@ The analysis focuses on identifying high-margin products, optimizing inventory t
 * **Category Dominance**: **Spirits** drive the majority of the business, accounting for 64.19% ($290.17M) of total sales, while **Wine** contributes 35.81% ($161.90M).
 * **Profitability**: Total profit reached $142.36M, supported by a sustainable margin structure.
 
+![Picture1](https://github.com/user-attachments/assets/93cddfd2-173d-4c9c-b84e-40cf94a5a541)
+
 ### 2. Product & Size Preferences
 
 * **The "Golden" Size**: The **750mL** bottle is the top performer across both categories in both sales volume and quantity.
 * **Segment Trends**: Wine leads in the 1.5L "value" segment, while Spirits dominate the 1.75L "bulk" segment.
 * **Slow Movers**: Smaller bottle sizes show significantly lower demand, suggesting an opportunity to streamline the product catalog.
+  
+![Picture2](https://github.com/user-attachments/assets/2a957dd8-a53d-4cae-bb22-c8e5e2ed38fe)
 
 ### 3. Operational Efficiency
 
 * **Shelf Time Management**: Specific brands like *Grand Marnier* and *Southern Comfort* were identified as having longer shelf times, increasing holding costs.
 * **Vendor Analysis**: **DIAGEO NORTH AMERICA INC** was identified as the most critical supplier by both value and frequency.
 * **Seasonality**: Purchasing activity peaks in **Q2 and Q4**, aligning with seasonal holidays and demand surges.
+
+  ![Picture4](https://github.com/user-attachments/assets/d60bff27-cc40-4ef8-a41f-4080f5ce5a04)
+
+![Picture5](https://github.com/user-attachments/assets/39d67264-2005-4c83-ad49-6dc8cd46e955)
+![Picture6](https://github.com/user-attachments/assets/44833ff7-c2db-47e9-9f45-e060f7a27f48)
+
 
 ---
 
@@ -53,10 +63,4 @@ The analysis focuses on identifying high-margin products, optimizing inventory t
 * **Power Query**: Data cleaning and transformation.
 * **Microsoft PowerPoint**: For project presentation and stakeholder reporting.
 
----
 
-### **One-Paragraph Summary for Your Mentor**
-
-**Title: Strategic Sales & Inventory Optimization for Just Drink Ltd**
-
-This project utilizes **Power BI** to integrate and analyze multi-source datasets for Just Drink Ltd, a wine and spirits retailer with **$452.06M in total sales**. The analysis highlights a strong **31.49% profit margin**, driven largely by the Spirits category (64% of revenue) and the 750mL bottle size. By identifying seasonal peaks in Q2 and Q4 and pinpointing slow-moving inventory like Grand Marnier, the project provides actionable insights for inventory streamlining and vendor management. The resulting dashboard serves as a strategic tool to optimize store-level pricing and procurement cycles, ultimately aiming to maximize profitability through data-driven stock efficiency.
