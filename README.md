@@ -63,5 +63,6 @@ The analysis focuses on identifying high-margin products, optimizing inventory t
 * **Power BI**: Data Modeling, DAX, and Interactive Dashboards.
 * **Power Query**: Data cleaning and transformation.
 * **Microsoft PowerPoint**: For project presentation and stakeholder reporting.
+* ** Project File** : Due to the wieght of the document it cannnot be uploaded directly on github. Download project here https://1drv.ms/f/c/67cd417fc93d9a3a/IgANcCStiBRPR7ZmnmupM4FIAcxknkLGyaLEmw2QqTMi_-U?e=2QvHoX
 
 
